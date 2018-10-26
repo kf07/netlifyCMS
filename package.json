@@ -1,0 +1,24 @@
+{
+  "name": "netlifyCMS",
+  "version": "1.0.0",
+  "description": "\"# netlifyCMS\"",
+  "main": "index.js",
+  "dependencies": {
+    "netlify-cms": "^2.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build-post": "node scripts/build-post"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kf07/netlifyCMS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kf07/netlifyCMS/issues"
+  },
+  "homepage": "https://github.com/kf07/netlifyCMS#readme"
+}
